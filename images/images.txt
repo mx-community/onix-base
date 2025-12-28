@@ -1,0 +1,1 @@
+Image folder, you can edit the images and customize them as you like, however, it is recommended to delete this folder once you clone the repository, because it may incur charges on the main page and the main database because they are connected to each other.
