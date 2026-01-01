@@ -1,0 +1,1 @@
+To ensure proper functionality of the bot, please install the required plugins located in the plugins folder. These plugins are essential for the bot's operation and should not be deleted or modified. If a plugin linked to the bot's main page is removed, it may affect the bot's performance and cause errors. Please install and configure the plugins carefully to avoid any issues.
